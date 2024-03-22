@@ -35,10 +35,15 @@ tk.mainloop()
 
 References:
 
-*Persiani M.* PyPLAF: Probabilistic Logical Argumentation Frameworks in Python [link](https://people.cs.umu.se/michelep/papers/14.pdf)
+*Persiani M.* 
+PyPLAF: Probabilistic Logical Argumentation Frameworks in Python 
+[link](https://people.cs.umu.se/michelep/papers/14.pdf)
 
-*Hunter A., Polberg S., Potyka N., Rienstra T., Thimm M.* Probabilistic argumentation: A survey
+*Hunter A., Polberg S., Potyka N., Rienstra T., Thimm M.* 
+Probabilistic argumentation: A survey
 
-*Besnard P., Hunter A.* A logic-based theory of deductive arguments
+*Besnard P., Hunter A.* 
+A logic-based theory of deductive arguments
 
-*Mantadelis T., Bistarelli S.* Probabilistic abstract argumentation frameworks, a possible world view
+*Mantadelis T., Bistarelli S.* 
+Probabilistic abstract argumentation frameworks, a possible world view
