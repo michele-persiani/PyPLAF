@@ -6,6 +6,13 @@ Python library for Probabilistic Logical Argumentation Frameworks
 
 Example utilization:
 ```
+from gui.impl import *
+from argumentation_framework.logical_arguments import *
+import tkinter as tk
+
+
+
+
 # Definition of arguments
 arguments = [
     make_simple_logic_argument({"A": True}, {"C": False}),
